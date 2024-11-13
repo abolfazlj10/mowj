@@ -15,7 +15,7 @@ export default function ThirdScreen () {
                 <div className='text-[#0088CC] -mt-9 blob'><a href='https://t.me/MowjArman'>تلگرام</a></div>
             </div>
             </div>
-            <div className='flex justify-center max-[750px]:hidden'><a href='https://mehdi-arman-s-project.vercel.app/'><img src='./desginer.svg'/></a></div>
+            <div className='flex justify-center max-[750px]:hidden'><a href='https://ma-mu.vercel.app/'><img src='./desginer.svg'/></a></div>
         </div>
     )
 }
